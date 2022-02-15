@@ -55,3 +55,5 @@ Journal  "1..n" -- "1..n" Journaliste : travaille pour <
 Journaliste  "1..n" - "1..n" Personnalité : interview > 
 
 @enduml 
+
+test
